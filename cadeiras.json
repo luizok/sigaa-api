@@ -1,0 +1,1575 @@
+[
+    {
+        "Codigo": "CB0534",
+        "Componente": "CÁLCULO DIFERENCIAL E INTEGRAL I - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CB0661",
+        "Componente": "MATEMÁTICA DISCRETA - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0169",
+        "Componente": "CIRCUITOS DIGITAIS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "CK0106",
+            "CK0009"
+        ]
+    },
+    {
+        "Codigo": "CK0211",
+        "Componente": "FUNDAMENTOS DE PROGRAMAÇÃO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "CK0108",
+            "CK0087",
+            "CK0030"
+        ]
+    },
+    {
+        "Codigo": "CK0253",
+        "Componente": "SEMINÁRIOS EM COMPUTAÇÃO - 32h (2cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CB0535",
+        "Componente": "CÁLCULO DIFERENCIAL E INTEGRAL II - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CB0534"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CB0589",
+        "Componente": "ÁLGEBRA LINEAR - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "CB0537",
+            "CB0582"
+        ]
+    },
+    {
+        "Codigo": "CK0170",
+        "Componente": "TRANSMISSAO DE DADOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "CK0106",
+            "CK0009"
+        ]
+    },
+    {
+        "Codigo": "CK0209",
+        "Componente": "ESTRUTURAS DE DADOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CB0661",
+            "CK0211"
+        ],
+        "Equivalencias": [
+            "CK0109",
+            "CK0029"
+        ]
+    },
+    {
+        "Codigo": "CK0226",
+        "Componente": "PROGRAMAÇÃO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0211"
+        ],
+        "Equivalencias": [
+            "CK0110"
+        ]
+    },
+    {
+        "Codigo": "CC0261",
+        "Componente": "INTRODUÇÃO A PROBABILIDADE E A ESTATÍSTICA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CB0534"
+        ],
+        "Equivalencias": [
+            "CC0051",
+            "AB0076"
+        ]
+    },
+    {
+        "Codigo": "CK0111",
+        "Componente": "ALGORITMOS EM GRAFOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0209"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0195",
+        "Componente": "ARQUITETURA DE COMPUTADORES - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0169"
+        ],
+        "Equivalencias": [
+            "CK0113"
+        ]
+    },
+    {
+        "Codigo": "CK0220",
+        "Componente": "LÓGICA PARA CIÊNCIA DA COMPUTAÇÃO - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CB0661"
+        ],
+        "Equivalencias": [
+            "CB0515"
+        ]
+    },
+    {
+        "Codigo": "CK0235",
+        "Componente": "TÉCNICAS DE PROGRAMAÇÃO I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0209",
+            "CK0226"
+        ],
+        "Equivalencias": [
+            "CK0112"
+        ]
+    },
+    {
+        "Codigo": "CK0047",
+        "Componente": "MÉTODOS NUMÉRICOS I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0226",
+            "CB0534"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0114",
+        "Componente": "FUNDAMENTOS DE BANCOS DE DADOS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0211"
+        ],
+        "Equivalencias": [
+            "CK0105"
+        ]
+    },
+    {
+        "Codigo": "CK0115",
+        "Componente": "LINGUAGENS DE PROGRAMAÇÃO I - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0211"
+        ],
+        "Equivalencias": [
+            "CK0043"
+        ]
+    },
+    {
+        "Codigo": "CK0203",
+        "Componente": "CONSTRUÇÃO E ANÁLISE DE ALGORITMOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0111"
+        ],
+        "Equivalencias": [
+            "CK0019",
+            "CK0183"
+        ]
+    },
+    {
+        "Codigo": "CK0245",
+        "Componente": "COMPUTAÇÃO GRÁFICA I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CB0589",
+            "CK0226"
+        ],
+        "Equivalencias": [
+            "CK0090"
+        ]
+    },
+    {
+        "Codigo": "CK0048",
+        "Componente": "MÉTODOS NUMÉRICOS II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0047",
+            "CB0535",
+            "CB0589"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0117",
+        "Componente": "SISTEMAS DE GERENCIAMENTO DE BANCOS DE DADOS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0247",
+        "Componente": "ENGENHARIA DE SOFTWARE I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0226"
+        ],
+        "Equivalencias": [
+            "CK0119"
+        ]
+    },
+    {
+        "Codigo": "CK0249",
+        "Componente": "REDES DE COMPUTADORES I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0170"
+        ],
+        "Equivalencias": [
+            "CK0184",
+            "CK0061",
+            "SMD0037"
+        ]
+    },
+    {
+        "Codigo": "CK0118",
+        "Componente": "AUTOMATOS E LINGUAGENS FORMAIS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0192",
+        "Componente": "ANÁLISE E PROJETO DE SISTEMAS I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": [
+            "CK0116",
+            "SMD0030"
+        ]
+    },
+    {
+        "Codigo": "CK0234",
+        "Componente": "SISTEMAS OPERACIONAIS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0195"
+        ],
+        "Equivalencias": [
+            "CK0069"
+        ]
+    },
+    {
+        "Codigo": "CK0248",
+        "Componente": "INTELIGÊNCIA ARTIFICIAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0209",
+            "CC0261"
+        ],
+        "Equivalencias": [
+            "CK0031"
+        ]
+    },
+    {
+        "Codigo": "CK0101",
+        "Componente": "TEORIA DA COMPUTAÇÃO - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0118"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0202",
+        "Componente": "CONSTRUÇÃO DE COMPILADORES - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [
+            "CK0115",
+            "CK0195"
+        ],
+        "Equivalencias": [
+            "CK0017"
+        ]
+    },
+    {
+        "Codigo": "CK0212",
+        "Componente": "INFORMÁTICA E SOCIEDADE - 32h (2cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "CK0120"
+        ]
+    },
+    {
+        "Codigo": "CIC0001",
+        "Componente": "ATIVIDADES COMPLEMENTARES - 192h (12cr) -  1 período letivo",
+        "CH_Detalhada": "0h aula   192h lab.  0h ead  0h ext. ",
+        "Tipo": "ATIVIDADES COMPLEMENTARES",
+        "Obrigatoria": true,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CB0507",
+        "Componente": "ESTRUTURAS ALGÉBRICAS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0661"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CB0519",
+        "Componente": "INTROD. AS EQUACOES DIFER. ORDINARIAS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0048"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CB0536",
+        "Componente": "CÁLCULO DIFERENCIAL E INTEGRAL III - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0535"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CB0802",
+        "Componente": "TEORIA DOS NÚMEROS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0661"
+        ],
+        "Equivalencias": [
+            "CB0676",
+            "CB0508"
+        ]
+    },
+    {
+        "Codigo": "CC0263",
+        "Componente": "PROGRAMAÇÃO LINEAR - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0589"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0297",
+        "Componente": "INTRODUÇÃO AOS PROCESSOS ESTOCASTICOS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CC0261"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0321",
+        "Componente": "OTIMIZAÇÃO COMBINATÓRIA E METAHEURÍSTICA - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  48h lab. (3cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CC0263"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0323",
+        "Componente": "PROGRAMAÇÃO NÃO-LINEAR - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0535",
+            "CB0589"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0325",
+        "Componente": "ÁLGEBRA LINEAR COMPUTACIONAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0589",
+            "CK0047"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0328",
+        "Componente": "LABORATÓRIO DE OTIMIZAÇÃO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203",
+            "CC0399"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0335",
+        "Componente": "PROGRAMAÇÃO POR RESTRIÇÕES - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0343",
+        "Componente": "COMBINATÓRIA POLIÉDRICA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CC0263"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CC0399",
+        "Componente": "PROGRAMAÇÃO INTEIRA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CC0263"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CD0201",
+        "Componente": "FÍSICA GERAL I - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0534"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CD0202",
+        "Componente": "FÍSICA GERAL II - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CD0201"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0102",
+        "Componente": "EMPREENDEDOR EM INFORMATICA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0125",
+        "Componente": "TEORIA DOS GRAFOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0661"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0126",
+        "Componente": "ESTRUTURAS DE DADOS AVANCADAS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0209"
+        ],
+        "Equivalencias": [
+            "CK0051"
+        ]
+    },
+    {
+        "Codigo": "CK0132",
+        "Componente": "ALGORITMOS APROXIMATIVOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0133",
+        "Componente": "ALGORITMOS DISTRIBUÍDOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0134",
+        "Componente": "ALGORITMOS PARALELOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0139",
+        "Componente": "BANCOS DE DADOS NÃO CONVENCIONAIS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0148",
+        "Componente": "COMPUTAÇÃO DE ALTO DESEMPENHO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203",
+            "CK0234"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0150",
+        "Componente": "GERENCIAMENTO DE REDES - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0249"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0152",
+        "Componente": "MODELAGEM ANALIT E AVAL DE DESEMP DE SIST DE COMP - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CC0261",
+            "CK0249"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0154",
+        "Componente": "SISTEMAS DISTRIBUÍDOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0234",
+            "CK0249"
+        ],
+        "Equivalencias": [
+            "TI0151"
+        ]
+    },
+    {
+        "Codigo": "CK0167",
+        "Componente": "PROCESSAMENTO DE IMAGENS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0171",
+        "Componente": "ANIMACAO POR COMPUTADOR - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0245"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0172",
+        "Componente": "MODELAGEM EM COMPUTAÇÃO GRÁFICA I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0245"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0173",
+        "Componente": "MODELAGEM EM COMPUTAÇÃO GRÁFICA II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0245"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0190",
+        "Componente": "ADMINISTRAÇÃO DE BANCOS DE DADOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0191",
+        "Componente": "ALGORITMOS PROBABILÍSTICOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0193",
+        "Componente": "APRENDIZAGEM DE MÁQUINA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0589",
+            "CK0226"
+        ],
+        "Equivalencias": [
+            "CK0138"
+        ]
+    },
+    {
+        "Codigo": "CK0194",
+        "Componente": "ARMAZÉNS DE DADOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0196",
+        "Componente": "BANCOS DE DADOS DISTRIBUÍDOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0197",
+        "Componente": "BUSCA E RECUPERAÇÃO DA INFORMAÇÃO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0198",
+        "Componente": "COMPLEXIDADE COMPUTACIONAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0199",
+        "Componente": "COMPLEXIDADE DESCRITIVA I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0200",
+        "Componente": "COMPLEXIDADE DESCRITIVA II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0201",
+        "Componente": "WEB SEMÂNTICA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0204",
+        "Componente": "DECOMPOSIÇÃO DE GRAFOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0111"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0205",
+        "Componente": "DESENVOLVIMENTO DE SOFTWARE PARA NUVEM - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": [
+            "CK0107"
+        ]
+    },
+    {
+        "Codigo": "CK0206",
+        "Componente": "DESENVOLVIMENTO DE SOFTWARE PARA PLATAFORMAS MÓVEIS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235",
+            "CK0195"
+        ],
+        "Equivalencias": [
+            "CK0147",
+            "SMD0122"
+        ]
+    },
+    {
+        "Codigo": "CK0207",
+        "Componente": "DESENVOLVIMENTO DE SOFTWARE PARA WEB - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0208",
+        "Componente": "ENGENHARIA DE SOFTWARE II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0247"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0210",
+        "Componente": "FILOSOFIA DA MENTE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0213",
+        "Componente": "INTELIGÊNCIA ARTIFICIAL ENATIVA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0248"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0215",
+        "Componente": "LABORATÓRIO DE PROGRAMAÇÃO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "16h aula (1cr)  48h lab. (3cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0226"
+        ],
+        "Equivalencias": [
+            "CK0038"
+        ]
+    },
+    {
+        "Codigo": "CK0216",
+        "Componente": "LINGUAGENS DE PROGRAMAÇÃO II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0115"
+        ],
+        "Equivalencias": [
+            "CK0044"
+        ]
+    },
+    {
+        "Codigo": "CK0217",
+        "Componente": "LÓGICA FUZZY - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0218",
+        "Componente": "LÓGICA MODAL I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0219",
+        "Componente": "LÓGICA MODAL II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0221",
+        "Componente": "MANUTENÇÃO E EVOLUÇÃO DE SOFTWARE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235",
+            "CK0247"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0222",
+        "Componente": "METATEOREMAS DA LÓGICA MATEMÁTICA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0223",
+        "Componente": "MINERAÇÃO DE DADOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": [
+            "CK0149"
+        ]
+    },
+    {
+        "Codigo": "CK0224",
+        "Componente": "PADRÕES DE PROJETO DE SOFTWARE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235",
+            "CK0247"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0225",
+        "Componente": "PROCESSAMENTO DE DADOS EM LARGA ESCALA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0227",
+        "Componente": "PROGRAMAÇÃO CONCORRENTE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235",
+            "CK0115"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0228",
+        "Componente": "PROGRAMAÇÃO EM BANCOS DE DADOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0229",
+        "Componente": "PROJETO SOCIAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0230",
+        "Componente": "PROVA ASSISTIDA POR COMPUTADOR - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0231",
+        "Componente": "QUALIDADE DE SOFTWARE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0247"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0232",
+        "Componente": "REDES COMPLEXAS EM COMPUTAÇÃO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0233",
+        "Componente": "REDES MÓVEIS E SEM FIO - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0249"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0236",
+        "Componente": "TÉCNICAS DE PROGRAMAÇÃO II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": [
+            "CK0129"
+        ]
+    },
+    {
+        "Codigo": "CK0237",
+        "Componente": "TEORIA DE MATROIDES - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0661"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0238",
+        "Componente": "TEORIA DOS MODELOS FINITOS I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0239",
+        "Componente": "TEORIA DOS MODELOS FINITOS II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0240",
+        "Componente": "VERIFICAÇÃO DEDUTIVA DE PROGRAMAS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0209",
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0241",
+        "Componente": "VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235",
+            "CK0247"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0243",
+        "Componente": "ABSTRAÇÕES DE SOFTWARE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0244",
+        "Componente": "ANÁLISE E PROJETO DE SISTEMAS II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0192"
+        ],
+        "Equivalencias": [
+            "CK0165"
+        ]
+    },
+    {
+        "Codigo": "CK0246",
+        "Componente": "COMPUTAÇÃO GRÁFICA II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0245"
+        ],
+        "Equivalencias": [
+            "CK0091"
+        ]
+    },
+    {
+        "Codigo": "CK0250",
+        "Componente": "REDES DE COMPUTADORES II - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0249"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0251",
+        "Componente": "REDES NEURAIS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "48h aula (3cr)  16h lab. (1cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CB0589",
+            "CK0226"
+        ],
+        "Equivalencias": [
+            "CK0142"
+        ]
+    },
+    {
+        "Codigo": "CK0252",
+        "Componente": "SEGURANÇA EM REDES - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0249"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0254",
+        "Componente": "TÓPICOS AVANÇADOS EM ALGORITMOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": [
+            "CK0137"
+        ]
+    },
+    {
+        "Codigo": "CK0255",
+        "Componente": "TÓPICOS AVANÇADOS EM APRENDIZAGEM DE MÁQUINA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0193"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0256",
+        "Componente": "TÓPICOS AVANÇADOS EM BANCOS DE DADOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": [
+            "CK0144"
+        ]
+    },
+    {
+        "Codigo": "CK0257",
+        "Componente": "TÓPICOS AVANÇADOS EM COMBINATÓRIA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0203"
+        ],
+        "Equivalencias": [
+            "CK0145"
+        ]
+    },
+    {
+        "Codigo": "CK0258",
+        "Componente": "TÓPICOS AVANÇADOS EM COMPLEXIDADE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220",
+            "CK0203"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0259",
+        "Componente": "TÓPICOS AVANÇADOS EM COMPUTAÇÃO GRÁFICA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0245"
+        ],
+        "Equivalencias": [
+            "CK0155"
+        ]
+    },
+    {
+        "Codigo": "CK0260",
+        "Componente": "TÓPICOS AVANÇADOS EM ENGENHARIA DE SOFTWARE - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0247"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0261",
+        "Componente": "TÓPICOS AVANÇADOS EM INTELIGÊNCIA ARTIFICIAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0248"
+        ],
+        "Equivalencias": [
+            "CK0146",
+            "CK0156"
+        ]
+    },
+    {
+        "Codigo": "CK0262",
+        "Componente": "TÓPICOS AVANÇADOS EM LÓGICA MATEMÁTICA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0220"
+        ],
+        "Equivalencias": [
+            "CK0131"
+        ]
+    },
+    {
+        "Codigo": "CK0263",
+        "Componente": "TÓPICOS AVANÇADOS EM REDES E SISTEMAS DISTRIBUÍDOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0250"
+        ],
+        "Equivalencias": [
+            "CK0158",
+            "CK0163"
+        ]
+    },
+    {
+        "Codigo": "CK0264",
+        "Componente": "INTRODUÇÃO À COMPUTAÇÃO MÓVEL E UBÍQUA - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0206"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0265",
+        "Componente": "TRABALHO DE CONCLUSÃO DE CURSO - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula   64h lab.  0h ead  0h ext. ",
+        "Tipo": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "CK0159"
+        ]
+    },
+    {
+        "Codigo": "CK0266",
+        "Componente": "VISUALIZAÇÃO DE DADOS - 64h (3cr) -  1 período letivo",
+        "CH_Detalhada": "20h aula (1cr)  32h lab. (2cr) 12h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": [
+            "CK0242"
+        ]
+    },
+    {
+        "Codigo": "CK0267",
+        "Componente": "VISÃO COMPUTACIONAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0167"
+        ],
+        "Equivalencias": [
+            "RUS0120"
+        ]
+    },
+    {
+        "Codigo": "CK0268",
+        "Componente": "INTRODUÇÃO À CIÊNCIA DE DADOS - 64h (3cr) -  1 período letivo",
+        "CH_Detalhada": "16h aula (1cr)  36h lab. (2cr) 12h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0226"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "CK0269",
+        "Componente": "PRIVACIDADE DE DADOS - 64h (3cr) -  1 período letivo",
+        "CH_Detalhada": "34h aula (2cr)  22h lab. (1cr) 8h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0114"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "ED0049",
+        "Componente": "ADMINISTRAÇÃO DE EMPRESAS - 96h (6cr) -  1 período letivo",
+        "CH_Detalhada": "96h aula (6cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "ED0056"
+        ]
+    },
+    {
+        "Codigo": "EH0316",
+        "Componente": "CONTABILIDADE GERAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "EH0306"
+        ]
+    },
+    {
+        "Codigo": "HLL0077",
+        "Componente": "LÍNGUA BRASILEIRA DE SINAIS - LIBRAS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "PRG0002",
+        "Componente": "RELAÇOES ETNICO-RACIAIS E AFRICANIDADES - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "PRG0003",
+        "Componente": "EDUCAÇÃO AMBIENTAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "PRG0004",
+        "Componente": "EDUCAÇÃO EM DIREITOS HUMANOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "PRG0005",
+        "Componente": "DIFERENÇA E ENFRENTAMENTO PROFISSIONAL NAS DESIGUALDADES SOCIAIS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "0h aula (0cr)  0h lab. (0cr) 64h ead (4cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "SMD0025",
+        "Componente": "ÉTICA E POLÍTICA AUTORAL - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "SMD0035",
+        "Componente": "MATEMÁTICA E FÍSICA PARA JOGOS - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "SMD0045",
+        "Componente": "LINGUAGEM DE PROGRAMAÇÃO SCRIPT - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "64h aula (4cr)  0h lab. (0cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [
+            "CK0235"
+        ],
+        "Equivalencias": []
+    },
+    {
+        "Codigo": "SMD0108",
+        "Componente": "INTERAÇÃO HUMANO-COMPUTADOR I - 64h (4cr) -  1 período letivo",
+        "CH_Detalhada": "32h aula (2cr)  32h lab. (2cr) 0h ead (0cr) 0h ext. (0cr)",
+        "Tipo": "DISCIPLINA",
+        "Obrigatoria": false,
+        "Pre_Requisitos": [],
+        "Equivalencias": [
+            "CK0151"
+        ]
+    }
+]
